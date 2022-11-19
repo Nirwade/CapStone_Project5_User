@@ -1,0 +1,33 @@
+// WebElement prodActulname = driver.findElement(By.xpath("//h3[text()='Paracetamol']]"));
+	// String prodExptdname = "//h3[text()='Paracetamol']";
+	//  Assert.assertEquals(prodActulname, prodExptdname);
+	// WebElement prodActulprice = driver.findElement(By.xpath("//h4/strong"));
+	//  double ProdExpectdprice = 18.0;
+	// Assert.assertEquals(prodActulprice, ProdExpectdprice);
+	
+	
+	
+	
+	
+	
+//	 WebElement prod1Qnty = driver.findElement(By.id("count_11"));
+//		      WebDriverWait wait = new WebDriverWait(driver,150);
+//			  wait.until(ExpectedConditions.textToBePresentInElementValue(prod1Qnty,"3"));
+//	          prod1Qnty.clear();
+//			  prod1Qnty.sendKeys("1");
+//			  System.out.println("quantity of prod1Qnty changed successfully");
+//			  
+//			  WebElement prod2Qnty = driver.findElement(By.id("count_12"));
+//			  wait.until(ExpectedConditions.textToBePresentInElementValue(prod2Qnty,"2"));
+//			  prod2Qnty.clear();
+//			  prod2Qnty.sendKeys("1");
+//			  System.out.println("quantity of prod2Qnty changed successfully");
+//			  
+//			  
+//		      WebElement prod3Qnty = driver.findElement(By.id("count_13"));
+//			  wait.until(ExpectedConditions.textToBePresentInElementValue(prod3Qnty,"3"));
+//
+//			  prod3Qnty.clear();
+//			  prod3Qnty.sendKeys("1");
+//			  System.out.println("quantity of prod3Qnty changed successfully");		  
+		  

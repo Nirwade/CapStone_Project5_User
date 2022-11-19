@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-19T09:13:11 IST" name="Default suite" finished-at="2022-11-19T09:13:36 IST" duration-ms="24413">
+    <groups>
+    </groups>
+    <test started-at="2022-11-19T09:13:11 IST" name="Default test" finished-at="2022-11-19T09:13:36 IST" duration-ms="24413">
+      <class name="medCapStone.UserEnToEnTest">
+        <test-method is-config="true" signature="DataSetUp()[pri:0, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:11 IST" name="DataSetUp" finished-at="2022-11-19T09:13:16 IST" duration-ms="4401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataSetUp -->
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:16 IST" name="SetUp" finished-at="2022-11-19T09:13:16 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void medCapStone.UserEnToEnTest.loginPassTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="loginPassTest()[pri:1, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:16 IST" name="loginPassTest" finished-at="2022-11-19T09:13:17 IST" duration-ms="1492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPassTest -->
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:17 IST" name="SetUp" finished-at="2022-11-19T09:13:17 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void medCapStone.UserEnToEnTest.HomePageTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="HomePageTest()[pri:2, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:17 IST" name="HomePageTest" finished-at="2022-11-19T09:13:32 IST" duration-ms="14425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:32 IST" name="SetUp" finished-at="2022-11-19T09:13:32 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void medCapStone.UserEnToEnTest.checkout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="checkout()[pri:3, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:32 IST" name="checkout" finished-at="2022-11-19T09:13:35 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="DataTearDown()[pri:0, instance:medCapStone.UserEnToEnTest@41e36e46]" started-at="2022-11-19T09:13:35 IST" name="DataTearDown" finished-at="2022-11-19T09:13:36 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataTearDown -->
+      </class> <!-- medCapStone.UserEnToEnTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
